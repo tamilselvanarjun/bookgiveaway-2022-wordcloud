@@ -1,0 +1,759 @@
+Timestamp,"Your favorite machine learning technique, algorithm, or tool (1 or 2 words)"
+9/3/2022 9:33:13,random forest
+9/3/2022 9:42:56,CLIP
+9/3/2022 9:42:57,Logistic Regression
+9/3/2022 9:42:58,LDA
+9/3/2022 9:43:37,Random Forest
+9/3/2022 9:43:42,Deep Learning
+9/3/2022 9:44:11,XGBoost
+9/3/2022 9:44:18,Scikit-learn
+9/3/2022 9:44:24,Backprop
+9/3/2022 9:44:28,ann
+9/3/2022 9:44:51,Transformers
+9/3/2022 9:44:53,Gaussian processes
+9/3/2022 9:45:08,"Torch, Treebased model"
+9/3/2022 9:45:09,Gaussian Processes
+9/3/2022 9:45:16,"Feature engineering, random forest, scikit-learn"
+9/3/2022 9:45:18,Lightgbm 
+9/3/2022 9:45:18,Decision tree
+9/3/2022 9:45:32,"Random forest, h2o"
+9/3/2022 9:45:35,Random forest
+9/3/2022 9:45:37,Image to Image translation 
+9/3/2022 9:45:43,Gradient boosting 
+9/3/2022 9:45:48,Random forest 
+9/3/2022 9:46:02,Transfer Learning
+9/3/2022 9:46:02,SVM
+9/3/2022 9:46:06,fastai
+9/3/2022 9:46:14,CNN
+9/3/2022 9:46:18,W&B
+9/3/2022 9:46:19,Mixed effects regression
+9/3/2022 9:46:23,"FCN, Vision transformer, Cosine Annealing, PyTorch, knowledge distillation"
+9/3/2022 9:46:27,xgboost
+9/3/2022 9:47:13,"CPC, WavLM"
+9/3/2022 9:47:13,Random forest
+9/3/2022 9:47:37,"Single tree, XGBoost"
+9/3/2022 9:47:49,"Tensorflow, GAN"
+9/3/2022 9:47:54,Classification Model
+9/3/2022 9:48:23,autoregressive transformers
+9/3/2022 9:48:30,"word2vec, XgBoost, pytorch"
+9/3/2022 9:48:36,XGBoost
+9/3/2022 9:48:42,Logistic regression 
+9/3/2022 9:48:44,Bayesian network 
+9/3/2022 9:49:07,Cluster Analysis 
+9/3/2022 9:50:23,"Neural Networks, Gradient Boosting "
+9/3/2022 9:50:40,Gradient descent
+9/3/2022 9:50:55,fast.ai
+9/3/2022 9:51:09,"Xgboost, optuna"
+9/3/2022 9:51:18,TensorFlow
+9/3/2022 9:51:20,scikit-learn
+9/3/2022 9:51:36,"XGBoost, SHAPley"
+9/3/2022 9:51:36,XGBoost 
+9/3/2022 9:51:52,xgboost
+9/3/2022 9:52:03,Xgboost
+9/3/2022 9:53:24,LightGBM
+9/3/2022 9:53:28,PCA
+9/3/2022 9:53:34,Pytorch
+9/3/2022 9:53:41,isolation forest
+9/3/2022 9:53:50,"Autoencoder, PyTorch"
+9/3/2022 9:54:35,CNN
+9/3/2022 9:54:38,Naive Bayes 
+9/3/2022 9:54:50,Multi model
+9/3/2022 9:54:57,Random Forest 
+9/3/2022 9:54:58,Xgboost
+9/3/2022 9:55:45,"scikit-learn, seaborn"
+9/3/2022 9:56:08,Neural networks 
+9/3/2022 9:56:28,PCA and KMeans
+9/3/2022 9:56:53,XGBoost
+9/3/2022 9:57:08,Scikit-learn
+9/3/2022 9:57:16,Random forest
+9/3/2022 9:57:27,"Reinforcement learning, KNN"
+9/3/2022 9:57:33,Random forest
+9/3/2022 9:57:42,"Generative models, Reinforcement learning, Pytorch "
+9/3/2022 9:57:50,"xgboost, pytorch"
+9/3/2022 9:58:00,Random Forest
+9/3/2022 9:58:25,Random Forest
+9/3/2022 9:58:40,TensorFlow
+9/3/2022 9:59:40,SVM
+9/3/2022 9:59:43,xgboost
+9/3/2022 10:00:01,"CNN, Keras, PyToch, TPU"
+9/3/2022 10:00:07,python
+9/3/2022 10:00:37,Random forest
+9/3/2022 10:00:40,Scikit-learn
+9/3/2022 10:00:43,XGBoost
+9/3/2022 10:01:06,fastai
+9/3/2022 10:01:11,XGBoost
+9/3/2022 10:01:14,XGBoost
+9/3/2022 10:01:35,random forest 
+9/3/2022 10:01:50,pca
+9/3/2022 10:02:28,XGBoost
+9/3/2022 10:04:18,"neural networks, pytorch lightning "
+9/3/2022 10:04:43,Random forest
+9/3/2022 10:05:28,Naive Bayes
+9/3/2022 10:05:39,Logistic regression 
+9/3/2022 10:06:07,SVD
+9/3/2022 10:06:29,Generative Adversarial Neural Networks 
+9/3/2022 10:06:40,xgboost
+9/3/2022 10:07:16,"Matrix factorization, collaborative filtering "
+9/3/2022 10:07:18,Autoencoders
+9/3/2022 10:07:21,backpropagation 
+9/3/2022 10:08:26,opencv
+9/3/2022 10:08:40,Random forest
+9/3/2022 10:08:42,scaled diffusion
+9/3/2022 10:08:56,Logistic regression
+9/3/2022 10:09:08,Pytorch
+9/3/2022 10:09:41,Random Forest and PCA
+9/3/2022 10:09:46,xgboost
+9/3/2022 10:10:18,"huggingface, self supervised learning"
+9/3/2022 10:10:39,SVM
+9/3/2022 10:11:59,VAE
+9/3/2022 10:12:13,Scikit-learn
+9/3/2022 10:12:23,Kernels
+9/3/2022 10:13:10,Mentoring 
+9/3/2022 10:14:34,"Regression, clustering"
+9/3/2022 10:15:38,Random Forest
+9/3/2022 10:15:40,SVM algorithm
+9/3/2022 10:16:29,Random forest
+9/3/2022 10:17:03,"feature selection, Uplift, Propensity Modeling, HyperParameter tuning"
+9/3/2022 10:17:10,VAE
+9/3/2022 10:17:36,GPT-3 KNN
+9/3/2022 10:17:46,Random forest
+9/3/2022 10:19:10,XGBoost
+9/3/2022 10:19:18,transformers
+9/3/2022 10:19:26,Random Forest
+9/3/2022 10:19:32,Xgboost
+9/3/2022 10:19:52,neural networks
+9/3/2022 10:19:56,Jupyter Lab
+9/3/2022 10:20:03,"Keras, Pytorch"
+9/3/2022 10:20:45,Logistic Regression
+9/3/2022 10:21:40,Gradient descent
+9/3/2022 10:22:04,Diffusion
+9/3/2022 10:23:15,Bayesian Stats
+9/3/2022 10:24:18,linear regression
+9/3/2022 10:25:56,Scikit-learn
+9/3/2022 10:26:44,Logistic Regression
+9/3/2022 10:27:09,RNN
+9/3/2022 10:27:27,Random forest
+9/3/2022 10:28:23,pretraines torchvision models
+9/3/2022 10:29:20,Tensor Flow
+9/3/2022 10:29:58,scikit-learn
+9/3/2022 10:30:14,XGBoost
+9/3/2022 10:30:27,XGboost
+9/3/2022 10:30:59,GAN
+9/3/2022 10:31:26,Pytorch
+9/3/2022 10:32:45,imagination
+9/3/2022 10:32:46,Random forest
+9/3/2022 10:32:55,XGBoost
+9/3/2022 10:33:07,Neural network 
+9/3/2022 10:34:05,Random Forest
+9/3/2022 10:34:13,"Random forest, PyTorch"
+9/3/2022 10:34:44,PyTorch
+9/3/2022 10:35:21,XGBoost
+9/3/2022 10:35:34,TensorFlow
+9/3/2022 10:36:49,Transformer
+9/3/2022 10:38:02,Nesterov gradient 
+9/3/2022 10:38:19,Transfer Learning
+9/3/2022 10:38:31,Adaline 
+9/3/2022 10:39:05,RapidMiner
+9/3/2022 10:40:30,XGBoost
+9/3/2022 10:40:51,XGBoost
+9/3/2022 10:41:16,Autoencoders
+9/3/2022 10:41:55,Transformers 
+9/3/2022 10:42:50,scikit-learn
+9/3/2022 10:43:52,Transformers
+9/3/2022 10:45:23,Random forest
+9/3/2022 10:46:50,PyTorch
+9/3/2022 10:48:21,Bayesian Optimization
+9/3/2022 10:49:08,Genetic Algorithms
+9/3/2022 10:49:46,XGBoost
+9/3/2022 10:50:08,"PyTorch, Optuna"
+9/3/2022 10:50:37,SVM
+9/3/2022 10:52:22,LightGBM
+9/3/2022 10:52:47,"scikit-learn, pandas, stochastic polyak gradient descent"
+9/3/2022 10:53:25,random forest
+9/3/2022 10:53:28,Light GBM
+9/3/2022 10:54:51,"GAN, CNN"
+9/3/2022 10:55:37,Gradient Descent 
+9/3/2022 10:56:34,normalising flows
+9/3/2022 10:56:58,XGBoost
+9/3/2022 10:57:32,XGBoost
+9/3/2022 10:57:39,XGBoost
+9/3/2022 11:00:09,Classification 
+9/3/2022 11:00:45,RNN
+9/3/2022 11:01:02,soft actor critic
+9/3/2022 11:01:18,Neural Networks 
+9/3/2022 11:01:21,Random Forest
+9/3/2022 11:01:48,Random Forest
+9/3/2022 11:01:57,Xgboost 
+9/3/2022 11:01:58,GAN
+9/3/2022 11:02:47,RNN/CNN
+9/3/2022 11:03:34,embeddings
+9/3/2022 11:03:52,XGBoost
+9/3/2022 11:06:47,generative modeling
+9/3/2022 11:07:18,XGBoost
+9/3/2022 11:07:49,RNN 
+9/3/2022 11:07:59,UNeT
+9/3/2022 11:08:24,"PyTorch, PyTorch Lightning"
+9/3/2022 11:10:00,CNN
+9/3/2022 11:11:09,Random forest
+9/3/2022 11:11:09,Feature engineering
+9/3/2022 11:11:55,Random forest
+9/3/2022 11:13:05,Naive Bayes
+9/3/2022 11:13:47,CNN
+9/3/2022 11:14:44,"Clustering, SVD, Gradient decent "
+9/3/2022 11:15:24,"python, jupyter"
+9/3/2022 11:15:35,"Python, linear regression, gradient descent"
+9/3/2022 11:16:41,random forest
+9/3/2022 11:16:49,"Random Forest, PyTorch"
+9/3/2022 11:17:52,DNCs
+9/3/2022 11:18:07,HuggingFace
+9/3/2022 11:20:04,AUTOGLUON
+9/3/2022 11:20:57,xgboost
+9/3/2022 11:22:42,Adversarial ML
+9/3/2022 11:23:10,SVM
+9/3/2022 11:23:19,t-SNE
+9/3/2022 11:24:08,CNN
+9/3/2022 11:24:19,JAX
+9/3/2022 11:24:37,"Knn, Scikit"
+9/3/2022 11:25:08,xgboost
+9/3/2022 11:25:41,Gradio
+9/3/2022 11:28:42,"Numpy, pytorch"
+9/3/2022 11:28:59,Logistic Regression 
+9/3/2022 11:29:55,XGBoost
+9/3/2022 11:30:32,Pytorch
+9/3/2022 11:31:38,"scikit-learn, PyTorch, fastai"
+9/3/2022 11:31:45,Google Colab
+9/3/2022 11:31:47,Deepcomposer
+9/3/2022 11:31:59,Logistic Regression 
+9/3/2022 11:32:35,Logistic regression 
+9/3/2022 11:35:40,Python
+9/3/2022 11:38:01,Random Forest
+9/3/2022 11:38:02,Conformal prediction 
+9/3/2022 11:38:06,Random forest 
+9/3/2022 11:38:06,"Black box optimization, RNN"
+9/3/2022 11:38:31,Random forest
+9/3/2022 11:38:47,SVM
+9/3/2022 11:40:01,"BERT, Jupyter Notebook"
+9/3/2022 11:40:43,Gradient Boosting
+9/3/2022 11:43:02,Random forest
+9/3/2022 11:44:29,Scikit-Learn 
+9/3/2022 11:45:57,Reinforcement Learning
+9/3/2022 11:46:10,Scikit-learn
+9/3/2022 11:46:28,"Xgboost , random forest"
+9/3/2022 11:48:40,SVM
+9/3/2022 11:49:17,"SVM, decision tree"
+9/3/2022 11:49:40,Neural Networks
+9/3/2022 11:50:28,"Xgboost, Docker"
+9/3/2022 11:53:17,Naive Bayes classifier
+9/3/2022 11:53:25,Linear regression 
+9/3/2022 11:53:42,Physics informed neural networks
+9/3/2022 11:53:46,Linear regression
+9/3/2022 11:54:01,XGBoost 
+9/3/2022 11:54:42,SVM
+9/3/2022 11:55:03,Pytorch
+9/3/2022 11:56:54,Tensorflow
+9/3/2022 11:58:11,Variational Graph Autoencoder
+9/3/2022 11:59:01,Linear regression 
+9/3/2022 11:59:13,"Transformers, Pytorch"
+9/3/2022 11:59:23,Black box
+9/3/2022 11:59:25,PyTorch Lightning 
+9/3/2022 12:00:12,GNN
+9/3/2022 12:00:50,"transformers, pytorch"
+9/3/2022 12:01:41,XGBoost
+9/3/2022 12:01:53,"word2vec, knn"
+9/3/2022 12:04:16,"LSTM, GAN, Reinforcement learning"
+9/3/2022 12:07:31,Wandb and pytorch
+9/3/2022 12:07:46,Regression
+9/3/2022 12:12:32,Random Forest
+9/3/2022 12:13:03,LightGBM
+9/3/2022 12:13:48,PCA
+9/3/2022 12:14:49,kernel methods
+9/3/2022 12:17:07,Xboost 
+9/3/2022 12:21:56,"Random forest, decision tree, neural network"
+9/3/2022 12:23:27,Matrix factorization
+9/3/2022 12:25:15,XGBoost
+9/3/2022 12:25:49,Sentence-BERT
+9/3/2022 12:28:25,KNN
+9/3/2022 12:30:09,xgboost
+9/3/2022 12:34:55,"Object Detection, CenterNet "
+9/3/2022 12:36:05,softmax
+9/3/2022 12:36:52,"Xgboost, vision transformers"
+9/3/2022 12:37:05,BDT
+9/3/2022 12:37:34,Random Forest
+9/3/2022 12:43:23,XGBoost
+9/3/2022 12:44:30,Genetic Programming
+9/3/2022 12:45:32,"Stacking , Random Forest, VScode "
+9/3/2022 12:46:35,Random Forest
+9/3/2022 12:48:49,"Gradient Boosting, YOLO"
+9/3/2022 12:50:08,Random Forest
+9/3/2022 12:50:19,Decision making
+9/3/2022 12:51:24,"PyTorch, BERT models"
+9/3/2022 12:51:53,FGSM 
+9/3/2022 12:54:27,LS-SVM
+9/3/2022 12:57:06,data processing
+9/3/2022 12:58:39,LSTM
+9/3/2022 13:01:22,fastai
+9/3/2022 13:02:23,Decision Tree
+9/3/2022 13:02:23,GBDT
+9/3/2022 13:02:39,Logistic regression 
+9/3/2022 13:03:26,XGBoost
+9/3/2022 13:11:18,PyTorch
+9/3/2022 13:19:18,Xgboost
+9/3/2022 13:19:36,"XGBoost, CNN"
+9/3/2022 13:20:20,python
+9/3/2022 13:20:30,PCA
+9/3/2022 13:20:51,LSTM
+9/3/2022 13:21:33,Regularization
+9/3/2022 13:21:39,Random forest 
+9/3/2022 13:23:46,Gradient Boosting
+9/3/2022 13:26:10,TensorFlow 
+9/3/2022 13:26:12,Random forest
+9/3/2022 13:27:14,SVM
+9/3/2022 13:29:37,Adversarial validation
+9/3/2022 13:32:51,Tensorflow 
+9/3/2022 13:35:51,Random Forest
+9/3/2022 13:36:32,Gradient descent 
+9/3/2022 13:39:18,XGBoost
+9/3/2022 13:39:19,Normalising flows
+9/3/2022 13:39:22,"xgboost, pytorch"
+9/3/2022 13:40:40,logistic regression
+9/3/2022 13:44:02,"scikit-learn, tensorflow, pytorch"
+9/3/2022 13:47:22,Stochastic gradient descent
+9/3/2022 13:50:04,"Pytorch, Tensorflow"
+9/3/2022 13:50:08,MLxtend
+9/3/2022 13:53:10,XGBoost
+9/3/2022 13:53:49,AdaBoost 
+9/3/2022 13:56:41,Decision Tree
+9/3/2022 14:00:33,SVM
+9/3/2022 14:02:28,"Random forest, Numpy, scikit-learn"
+9/3/2022 14:03:33,Transformer
+9/3/2022 14:04:07,Random forest
+9/3/2022 14:04:28,XGBoost
+9/3/2022 14:13:43,Lightgbm
+9/3/2022 14:14:29,Recsys
+9/3/2022 14:14:45,"Xgboost, catboost"
+9/3/2022 14:15:01,Tree-based model
+9/3/2022 14:15:49,pyhf
+9/3/2022 14:21:22,CNN
+9/3/2022 14:21:44,random forest
+9/3/2022 14:25:28,"Regression, random forest "
+9/3/2022 14:25:36,Mirror descent
+9/3/2022 14:28:42,Yolo
+9/3/2022 14:31:33,SVM
+9/3/2022 14:31:42,Data visualization
+9/3/2022 14:31:51,"generative models, Cycl"
+9/3/2022 14:33:09,Self-supervised learning
+9/3/2022 14:36:58,Graph Neural Networks 
+9/3/2022 14:37:56,Autoencoder
+9/3/2022 14:41:06,"XGBoost, Attention"
+9/3/2022 14:44:38,Gradient boosted trees
+9/3/2022 14:47:32,Random forest
+9/3/2022 14:49:11,Random forest 
+9/3/2022 14:49:40,Generative models
+9/3/2022 14:53:13,Reinforcement learning
+9/3/2022 14:55:39,huggingface
+9/3/2022 15:00:22,"Ensemble, PyTorch"
+9/3/2022 15:02:50,Neural networks
+9/3/2022 15:05:49,PyTorch
+9/3/2022 15:11:16,matrix profile
+9/3/2022 15:11:30,L-BFGS
+9/3/2022 15:12:49,SVM
+9/3/2022 15:15:35,Reinforcement learning
+9/3/2022 15:19:02,Bayesian networks
+9/3/2022 15:19:51,lightgbm
+9/3/2022 15:20:01,K-Means Clustering
+9/3/2022 15:28:15,pandas
+9/3/2022 15:30:15,pytorch
+9/3/2022 15:34:16,"xgboost, XGBOOST"
+9/3/2022 15:40:01,Random forest
+9/3/2022 15:40:47,SVM
+9/3/2022 15:41:14,Tutorials
+9/3/2022 15:43:32,SVM: they're simple and used for both classification and regression
+9/3/2022 15:45:46,random forest
+9/3/2022 15:46:37,Visual Prompting
+9/3/2022 15:46:50,Gradient Descent 
+9/3/2022 15:47:23,Lstm
+9/3/2022 15:48:11,"tidymodels, bonsai, lightGBM"
+9/3/2022 15:51:46,Autoencoders
+9/3/2022 15:53:36,CNN
+9/3/2022 15:56:23,Autoencoders
+9/3/2022 15:56:58,fastai
+9/3/2022 15:58:11,PyTorch
+9/3/2022 15:58:23,SVM
+9/3/2022 15:58:33,PINN
+9/3/2022 15:59:32,Gradient Descent
+9/3/2022 16:01:13,Linear Regression 
+9/3/2022 16:02:18,pandas
+9/3/2022 16:02:46,Genetic Programming
+9/3/2022 16:03:10,Gradient Boosting
+9/3/2022 16:07:34,pandas
+9/3/2022 16:07:38,XGBoost
+9/3/2022 16:10:51,Python
+9/3/2022 16:14:23,"Neural network, Pytorch"
+9/3/2022 16:15:56,transformer
+9/3/2022 16:16:28,TensorFlow
+9/3/2022 16:19:09,Keras
+9/3/2022 16:19:18,Dbscan
+9/3/2022 16:22:11,"KNN, naive bayes"
+9/3/2022 16:24:34,"scikit-learn, mlxtend"
+9/3/2022 16:27:33,Stochastic Gradient Descent 
+9/3/2022 16:28:05,PyTorch
+9/3/2022 16:32:50,"Xgboost, random forest"
+9/3/2022 16:33:08,xgboost
+9/3/2022 16:34:31,Random Forest
+9/3/2022 16:34:48,Yolo
+9/3/2022 16:35:54,Linear regression
+9/3/2022 16:37:10,Multihead attention 
+9/3/2022 16:38:32,Stochastic Gradient Descent
+9/3/2022 16:40:50,BatchNorm
+9/3/2022 16:40:54,xgboost
+9/3/2022 16:41:09,XGBoost
+9/3/2022 16:42:19,Sentiment analysis
+9/3/2022 16:43:49,KNN
+9/3/2022 16:46:25,non-linear Regression
+9/3/2022 16:49:37,Logistic regressions
+9/3/2022 16:52:46,TensorFlow
+9/3/2022 16:53:04,XGboost
+9/3/2022 17:00:51,PyG
+9/3/2022 17:06:28,PyTorch
+9/3/2022 17:10:51,Logistic
+9/3/2022 17:13:37,DBSCAN 
+9/3/2022 17:17:01,Gradient descent
+9/3/2022 17:18:55,Random Forest
+9/3/2022 17:28:14,stochastic gradient descent
+9/3/2022 17:28:37,PyTorch
+9/3/2022 17:30:20,tensorflow
+9/3/2022 17:30:42,Alphafold
+9/3/2022 17:40:16,SVM
+9/3/2022 17:41:14,SVM
+9/3/2022 17:46:01,ARIMA
+9/3/2022 17:46:04,fastai
+9/3/2022 17:49:12,"SciKit-learn, tensorflow"
+9/3/2022 17:59:19,"PyTorch, SWA"
+9/3/2022 17:59:22,Transformers 
+9/3/2022 18:03:06,Linear regression 
+9/3/2022 18:03:12,"Transformers, NLP"
+9/3/2022 18:04:27,KNN
+9/3/2022 18:06:53,Logistic regression 
+9/3/2022 18:07:04,Spark
+9/3/2022 18:10:02,PyTorch 
+9/3/2022 18:10:55,Logistic regression
+9/3/2022 18:13:31,Weka
+9/3/2022 18:16:09,Random forest
+9/3/2022 18:21:44,XGBoost
+9/3/2022 18:22:12,"logistic regression, confusion matrix"
+9/3/2022 18:26:21,Kernal methods
+9/3/2022 18:27:41,Xgboost
+9/3/2022 18:29:46,"K-Means Clustering, Logistic Regression"
+9/3/2022 18:30:01,Fastai
+9/3/2022 18:30:32,"Transformers, Skip connection"
+9/3/2022 18:33:04,XGBoost
+9/3/2022 18:33:10,"Scikit-Learn, TensorFlow, PyTorch"
+9/3/2022 18:34:18,Random Forest
+9/3/2022 18:34:22,"Online learning, pytorch"
+9/3/2022 18:37:56,CNN
+9/3/2022 18:38:49,Reinforcement learning 
+9/3/2022 18:40:47,PyTorch
+9/3/2022 18:42:52,XGBoost
+9/3/2022 18:42:58,PyTorch
+9/3/2022 18:44:35,"scikit-Learn, logistic regression, decision tree"
+9/3/2022 18:45:04,Cross-validation 
+9/3/2022 18:54:00,"xgboost, logistic regression"
+9/3/2022 18:54:10,Random Forest
+9/3/2022 18:55:12,Transfer learning 
+9/3/2022 19:03:33,xgboost and lightGBM 
+9/3/2022 19:04:14,XGBoost
+9/3/2022 19:05:43,super convergence
+9/3/2022 19:06:59,Scikit-Learn
+9/3/2022 19:08:41,SVM
+9/3/2022 19:11:07,Symbolic regression 
+9/3/2022 19:11:31,NLP
+9/3/2022 19:12:32,Transformers 
+9/3/2022 19:14:29,Random forest
+9/3/2022 19:16:43,Keras
+9/3/2022 19:20:45,"Regression, bootstrapping "
+9/3/2022 19:28:44,XGBOOST
+9/3/2022 19:31:48,backpropagation 
+9/3/2022 19:31:54,Random Forest
+9/3/2022 19:39:54,torchnlp
+9/3/2022 19:40:44,Normalizing flows
+9/3/2022 19:46:29,"pytorch, scikit-learn"
+9/3/2022 19:50:57,Linear Regression
+9/3/2022 19:52:51,CNN
+9/3/2022 19:54:13,Random forest 
+9/3/2022 20:05:52,Google cloud
+9/3/2022 20:07:19,SVM
+9/3/2022 20:13:31,CNN tensor
+9/3/2022 20:19:42,LSTM pytorch
+9/3/2022 20:24:34,scikit-learn
+9/3/2022 20:24:42,data cleaning
+9/3/2022 20:38:52,CNN
+9/3/2022 20:40:11,CNN
+9/3/2022 20:44:09,TensorFlow 
+9/3/2022 20:45:46,"Pytorch, Gym"
+9/3/2022 20:52:57,Xgboost
+9/3/2022 21:08:08,k-means
+9/3/2022 21:08:41,Xgboost
+9/3/2022 21:09:45,random forest
+9/3/2022 21:15:50,SVM
+9/3/2022 21:28:06,Linear Regression
+9/3/2022 21:30:08,Pytorch
+9/3/2022 21:54:14,Masked Language Model Transformers
+9/3/2022 21:55:30,"Neural Networks, Random Forest"
+9/3/2022 21:57:11,Random Forest 
+9/3/2022 21:59:06,TensorFlow
+9/3/2022 22:00:38,XGBoost
+9/3/2022 22:04:09,XGBoost
+9/3/2022 22:05:23,Gradient Descent 
+9/3/2022 22:06:33,"Xgboost, svm"
+9/3/2022 22:08:10,XgBoost
+9/3/2022 22:14:50,VAE
+9/3/2022 22:16:48,Hierarchical models
+9/3/2022 22:20:23,"Bagging, boosting"
+9/3/2022 22:22:52,Cluster Analysis
+9/3/2022 22:29:59,"Xgboost, CNN"
+9/3/2022 22:34:27,XGBoost
+9/3/2022 22:40:45,Gradient Descent 
+9/3/2022 22:56:40,PCA
+9/3/2022 23:00:12,Linear regression 
+9/3/2022 23:06:45,XGBoost
+9/3/2022 23:07:36,Logistic Regression
+9/3/2022 23:08:39,"XGBoost, Time series forecasting"
+9/3/2022 23:10:12,Logistic regression
+9/3/2022 23:11:53,"transformers, ClinicalBERT, nlp"
+9/3/2022 23:12:29,Neural Networks
+9/3/2022 23:21:31,Scikit-learn
+9/3/2022 23:32:36,Scikit-learn 
+9/3/2022 23:32:54,"RCNN, TensorFlow "
+9/3/2022 23:40:28,Neural Networks
+9/3/2022 23:41:19,Linear regression 
+9/3/2022 23:43:46,PyTorch
+9/3/2022 23:53:07,Xgboost
+9/3/2022 23:58:11,transfer learning 
+9/3/2022 23:59:35,Pca
+9/4/2022 0:02:05,Pruning
+9/4/2022 0:07:45,Random forest
+9/4/2022 0:09:58,Xavier initialization
+9/4/2022 0:13:12,spotify recommendation
+9/4/2022 0:29:18,K-Means
+9/4/2022 0:31:16,Deep Learning
+9/4/2022 0:31:25,Neural Networks 
+9/4/2022 0:33:47,PyTorch
+9/4/2022 0:40:14,Self-Supervised Learning 
+9/4/2022 0:41:25,scikit-learn
+9/4/2022 0:41:52,Ridge regression
+9/4/2022 0:47:21,Random forest 
+9/4/2022 0:47:55,Gradient boosting
+9/4/2022 0:51:56,K-means
+9/4/2022 0:59:34,PyTorch Lightning
+9/4/2022 1:02:54,Random forest 
+9/4/2022 1:04:33,Unsupervised clustering
+9/4/2022 1:06:59,Thompson Sampling
+9/4/2022 1:16:10,"CNN, Generative models"
+9/4/2022 1:17:56,Bayesian Networks
+9/4/2022 1:18:31,Data augmentation 
+9/4/2022 1:18:37,PCA
+9/4/2022 1:22:40,XgBoost
+9/4/2022 1:22:43,tensor decomposition
+9/4/2022 1:31:25,"SVM, scikit-learn"
+9/4/2022 1:39:18,Gradient Boosting
+9/4/2022 1:42:42,"XgBoost, One-hot Encoding"
+9/4/2022 1:51:51,Tensorflow 
+9/4/2022 1:52:51,Scikit-learn
+9/4/2022 1:54:43,SVM 
+9/4/2022 1:55:00,PyTorch Lightning 
+9/4/2022 1:56:35,HuggingFace
+9/4/2022 1:58:42,TensorFlow
+9/4/2022 2:05:09,Causal Inference
+9/4/2022 2:06:21,pytorch
+9/4/2022 2:09:13,SVM
+9/4/2022 2:09:36,Transfer Learning 
+9/4/2022 2:11:56,deep learning
+9/4/2022 2:13:00,Scikit-learn
+9/4/2022 2:14:45,Scikit-learn
+9/4/2022 2:15:04,Linear Regression
+9/4/2022 2:17:49,xgboost
+9/4/2022 2:20:51,Naive Bayes
+9/4/2022 2:25:36,Random forest
+9/4/2022 2:32:43,Random Forest
+9/4/2022 2:39:42,xgboost
+9/4/2022 2:39:55,XGBoost
+9/4/2022 2:41:21,VAE
+9/4/2022 2:46:25,"Pytorch, Detecton2"
+9/4/2022 2:49:43,SageMaker
+9/4/2022 2:49:54,"SVM, K-NN"
+9/4/2022 2:57:47,"XGBoost, CNN, Google Colab"
+9/4/2022 3:06:30,SVM
+9/4/2022 3:10:08,"Pytorch, scikit-learn"
+9/4/2022 3:10:52,XGBoost
+9/4/2022 3:12:41,Transformers
+9/4/2022 3:16:54,reinforcement learning
+9/4/2022 3:18:26,Multi-modal Transformers
+9/4/2022 3:20:11,"Xgboost, catboost, scikit-learn"
+9/4/2022 3:22:42,Confusion matrix
+9/4/2022 3:23:48,XGBOOST 
+9/4/2022 3:33:36,Generative AI
+9/4/2022 3:34:00,Energy-based models
+9/4/2022 3:36:57,"XGboost, Gaussian processes"
+9/4/2022 3:42:31,GAT
+9/4/2022 3:44:09,"Pytorch, tensorflow, yolo, centernet"
+9/4/2022 3:44:57,logistic regression 
+9/4/2022 3:46:26,Logistic regression 
+9/4/2022 3:47:14,"Tensorflow, Keras"
+9/4/2022 3:51:38,Random forest 
+9/4/2022 3:54:43,cross validation 
+9/4/2022 3:56:41,Python
+9/4/2022 4:00:48,pytorch
+9/4/2022 4:12:57,Xgboost
+9/4/2022 4:14:16,Regression 
+9/4/2022 4:15:39,"Bayesian, bellman equation, Graphs"
+9/4/2022 4:18:15,NLP
+9/4/2022 4:30:31,random forest 
+9/4/2022 4:31:00,Random Forest
+9/4/2022 4:32:31,Decision tree
+9/4/2022 4:33:32,wandb
+9/4/2022 4:36:47,"SVM, Scikit-Learn"
+9/4/2022 4:37:13,CNN
+9/4/2022 4:39:29,Transfer Learning
+9/4/2022 4:41:50,GAN
+9/4/2022 4:43:56,Logistic Regression
+9/4/2022 4:51:00,Pytorch 
+9/4/2022 4:55:54,Neural networks
+9/4/2022 4:58:37,SVM
+9/4/2022 5:07:16,Random Forest
+9/4/2022 5:07:37,Q learning
+9/4/2022 5:08:09,kNN
+9/4/2022 5:09:09,Pytorch
+9/4/2022 5:10:38,"Ensemble Methods,  Neural Nets, Deep Learning"
+9/4/2022 5:16:38,Unsupervised learning 
+9/4/2022 5:25:58,"One-Hot encoding, XGBoost, Pytorch"
+9/4/2022 5:26:15,Deep learning
+9/4/2022 5:26:55,Unsupervised learning
+9/4/2022 5:31:48,Pytorch
+9/4/2022 5:34:48,Linear regression
+9/4/2022 5:35:45,Random Forest 
+9/4/2022 5:41:11,Xgboost
+9/4/2022 5:43:47,Ensemble Technique 
+9/4/2022 5:46:51,Transformers
+9/4/2022 5:49:47,Pytorch 
+9/4/2022 5:54:59,Linear regression 
+9/4/2022 5:55:23,PyTorch
+9/4/2022 5:56:03,XGBoost
+9/4/2022 6:00:49,Knn
+9/4/2022 6:05:48,Random forest 
+9/4/2022 6:08:27,transformers
+9/4/2022 6:12:12,PyTorch
+9/4/2022 6:16:12,kNN
+9/4/2022 6:19:35,Pytorch
+9/4/2022 6:23:44,Tensorflow 
+9/4/2022 6:27:45,"CNN, pytorch"
+9/4/2022 6:31:35,tree-based models
+9/4/2022 6:35:41,Python 
+9/4/2022 6:35:46,Scikit-Learn
+9/4/2022 6:36:16,SVM
+9/4/2022 6:39:23,"Reinforcement learning, Representation learning"
+9/4/2022 6:51:02,torchlib
+9/4/2022 6:52:51,Reinforcement
+9/4/2022 6:53:34,Style transfer
+9/4/2022 6:55:01,ResNet50
+9/4/2022 7:00:14,Xgboost
+9/4/2022 7:01:13,Classification
+9/4/2022 7:02:28,Random Forest
+9/4/2022 7:06:15,Logistic regression 
+9/4/2022 7:18:42,KNN
+9/4/2022 7:24:17,Adversarial training
+9/4/2022 7:26:16,"Xgboost, rapids"
+9/4/2022 7:26:33,Dropout
+9/4/2022 7:29:06,Autoencoder
+9/4/2022 7:29:06,XGBoost
+9/4/2022 7:32:01,Scikit-learn
+9/4/2022 7:37:17,"GBT, Keras"
+9/4/2022 7:43:31,GWR
+9/4/2022 7:45:33,SVM
+9/4/2022 7:52:39,Ensemble methods
+9/4/2022 7:55:12,Neural networks
+9/4/2022 7:58:08,Gaussian process regression
+9/4/2022 7:59:04,"pytorch, Linear regression"
+9/4/2022 8:03:15,Colab
+9/4/2022 8:05:09,Random Forest
+9/4/2022 8:09:44,xgboost
+9/4/2022 8:11:51,Xgboost
+9/4/2022 8:13:40,CNN
+9/4/2022 8:15:36,CNN
+9/4/2022 8:23:30,SVM
+9/4/2022 8:30:14,Random forest
+9/4/2022 8:32:39,Graph Neural Networks
+9/4/2022 8:46:01,ConvNeXt
+9/4/2022 8:48:36,"Scikit-learn, XGBoost"
+9/4/2022 8:50:23,GAN
+9/4/2022 8:52:26,XGBoost
+9/4/2022 8:58:40,TensorFlow
+9/4/2022 9:03:21,Graph DNNs
+9/4/2022 9:03:52,GAN
+9/4/2022 9:08:17,"autoencoders, generative models "
+9/4/2022 9:08:28,Self-supervised learning
+9/4/2022 9:12:31,Reinforcement Learning
+9/4/2022 9:15:27,Transformers
+9/4/2022 9:18:58,Decision tree
+9/4/2022 9:19:00,PyTorch
+9/4/2022 9:20:25,Random Forest
+9/4/2022 9:26:23,"Plotly, Dash"
+9/4/2022 9:29:51,Sentence Transformers 
+9/4/2022 9:33:41,Feature engineering
+9/4/2022 9:35:22,Pytorch
+9/4/2022 9:35:48,KNN
+9/4/2022 9:39:25,Adversarial Validation
+9/4/2022 9:39:27,pycaret
+9/4/2022 9:40:22,Logistic Regression
+9/4/2022 9:42:11,XGBOOST
+9/4/2022 9:42:46,scikit-learn
+9/4/2022 9:50:49,Scikit-learn
+9/4/2022 9:55:02,Random Forest
+9/4/2022 9:56:55,"Linear regression, logistic regression"
+9/4/2022 10:02:07,Decision Tree
+9/4/2022 10:08:00,Autoencoder
+9/4/2022 10:23:07,MCMC
+9/4/2022 10:24:49,NeRF
+9/4/2022 10:26:47,Decision making
+9/4/2022 10:45:07,VAE
+9/4/2022 10:58:12,Bayes Theorem
+9/4/2022 11:00:17,RNN
+9/4/2022 11:26:08,Decision tree
+9/4/2022 11:58:16,Pytorch
+9/4/2022 12:08:27,Protein embeddings
+9/4/2022 12:16:26,Variational inference
+9/4/2022 12:58:12,"Clustering, Shogun"
+9/4/2022 13:25:12,"CNN, Scikit-learn"
+9/4/2022 13:37:13,optimization 
+9/4/2022 13:45:09,skip layers
+9/4/2022 13:57:44,Scikit-learn
+9/4/2022 14:10:27,Huggingface 
+9/4/2022 14:33:59,"dagshub, git, dvc, mlflow"
+9/4/2022 14:39:43,LSTM
+9/4/2022 15:02:55,Tool
+9/4/2022 15:19:17,transformers
+9/4/2022 16:32:47,Graph convolutions
+9/4/2022 17:37:41,Random Forest
+9/4/2022 18:03:23,Reccurent Neural Networks
+9/4/2022 18:13:24,CNN
+9/4/2022 18:55:54,VAE
+9/4/2022 18:57:22,Logistic regression 
+9/4/2022 19:40:27,scikit-learn
+9/4/2022 20:13:21,"Random forest, SVM"
+9/4/2022 20:18:22,"PyTorch, tensorflow"
+9/4/2022 20:29:05,SVM
+9/4/2022 21:52:30,ensembles
+9/4/2022 22:05:55,XGBoost
+9/4/2022 22:09:29,Clustering KNN 
+9/4/2022 22:23:21,Machine Learning Systems
+9/4/2022 22:51:27,Gradient Descent
+9/4/2022 22:54:51,Scikit-Learn
+9/5/2022 1:53:51,nltk
+9/5/2022 2:02:25,LDA 
+9/5/2022 2:27:17,Random Forest
+9/5/2022 2:52:51,VS code
+9/5/2022 4:29:35,"CNN, Google Colab, VS code"
+9/5/2022 4:44:56,"XGBoost, Neural Networks"
+9/5/2022 6:28:24,Sagemaker
+9/5/2022 8:08:46,Autoencoder
+9/5/2022 11:48:08,Feature learning 
+9/5/2022 13:32:05,Scikit-learn
